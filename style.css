@@ -1,0 +1,65 @@
+* {
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+
+}
+
+
+body {
+    background-color: rgba(5, 5, 5, 0.953);
+    height: 2500px;
+    font-family: Arial Black;
+}
+
+.black {
+    width: 100%;
+    height: 350px;
+    background-color: #161515;
+    position: absolute;
+    margin-top: 1900px;
+
+
+
+}
+
+.exp {
+    width: 50%;
+    height: 800px;
+    background-color: #161515;
+    position: absolute;
+    margin-top: 400px;
+
+}
+
+.exp .exp-l {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 300px;
+
+    text-align: center;
+    padding: 50px 50px;
+
+
+}
+
+.exp-l h1 {
+
+    font-size: 80px;
+    color: rgb(238, 60, 60);
+    margin-bottom: 0px;
+    font-weight: 900;
+}
+
+.exp-l h3 {
+    color: aliceblue;
+    margin-top: 0px;
+
+
+
+
+
+
+}
+
+
